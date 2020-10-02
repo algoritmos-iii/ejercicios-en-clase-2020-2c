@@ -8,7 +8,8 @@
 
 - Cuando hablaron muchas veces, elijo siempre la ultima frase
 
-  tip: `2 min: 1` devuelve el minimo entre 2 y 1
+  - tip: `2 min: 1` devuelve el minimo entre 2 y 1
 
 - No te olvides de usar buenos nombres!
-  tip: ¿qué rol esta cumpliendo la clase o el parametro?
+  
+  - tip: ¿qué rol esta cumpliendo la clase o el parametro?
