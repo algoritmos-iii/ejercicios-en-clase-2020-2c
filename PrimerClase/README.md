@@ -3,6 +3,7 @@
 ¿Qué hacer ahora?
 
 - Que GuardiaDeSkyrim tenga una lista de frases para contestar
+  - tip: podes crear la lista de frases asi: `#('frase 1' 'frase 2' 'frase 3')`
 
 - Elegir la frase segun las veces que hablaron conmigo
 
