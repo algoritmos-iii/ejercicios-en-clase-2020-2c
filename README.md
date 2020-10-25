@@ -1,5 +1,6 @@
-# ejercicios-rapiditos
-Ejercicios con consignas sencillas para hacer entre clase y clase
+# Ejercicios en clase
+
+Ejercicios que vamos haciendo durante la cursada en clase con guía del docente. Estos ejercicios son para prácticar, no llevan nota ni es obligatoria su entrega.
 
 ## fileIn
 
